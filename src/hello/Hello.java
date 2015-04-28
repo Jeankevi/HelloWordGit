@@ -20,9 +20,11 @@ public class Hello {
         //I change here
         //no
         //I changhere too 
-        
+        fet();
         //fuck you I touch it
         //I change uup here
     }
-    
+    public static void fet(){
+        
+    }
 }
