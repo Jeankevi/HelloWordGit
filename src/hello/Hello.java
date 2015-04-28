@@ -19,6 +19,7 @@ public class Hello {
         // TODO code application logic here
         //I change here
         //no
+        run();
         //I changhere too 
         fet();
         //fuck you I touch it
@@ -26,5 +27,8 @@ public class Hello {
     }
     public static void fet(){
         
+    }
+    public static void run(){
+            
     }
 }
