@@ -19,10 +19,13 @@ public class Hello {
         // TODO code application logic here
         //I change here
         //no
+        run();
         //I changhere too 
         
         //fuck you I touch it
         //I change uup here
     }
-    
+    public static void run(){
+            
+    }
 }
