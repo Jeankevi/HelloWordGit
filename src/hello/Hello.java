@@ -29,8 +29,6 @@ public class Hello {
         check();
     }
 
-
-
     private int ho = -4;
     //hello
 
