@@ -20,7 +20,8 @@ public class Hello {
         //I change here
         //no
         run();
-        //I changhere too 
+        //I changhere too
+        c();
         fet();
         //blah blah
         //fuck you I touch it
@@ -28,8 +29,16 @@ public class Hello {
         check();
     }
 
+
     private int ho = -4;
     //hello
+
+
+    //haha
+    public static int c(){
+        return -1;
+    }
+
     public static void check(){
         
     }
