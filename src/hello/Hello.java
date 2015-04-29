@@ -22,12 +22,13 @@ public class Hello {
         run();
         //I changhere too 
         fet();
+        //blah blah
         //fuck you I touch it
         //I change uup here
         check();
     }
 
-
+    private int ho = -4;
     //hello
     public static void check(){
         
