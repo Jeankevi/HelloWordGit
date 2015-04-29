@@ -19,6 +19,8 @@ public class Hello {
         // TODO code application logic here
         //I change here
         //no
+        //blaha blah
+        int o = 0;
         run();
         //I changhere too
         c();
@@ -29,6 +31,7 @@ public class Hello {
         check();
     }
 
+    int a = 0;
     private int ho = -4;
     //hello
 
