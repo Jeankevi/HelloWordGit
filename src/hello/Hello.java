@@ -24,9 +24,14 @@ public class Hello {
         fet();
         //fuck you I touch it
         //I change uup here
+        check();
     }
 
 
+    //hello
+    public static void check(){
+        
+    }
     public static void fet(){
         
     }
